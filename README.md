@@ -2,7 +2,7 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA
 DO SUDESTE DE MINAS GERAIS – IF SUDESTE MG
 Programação Orientada a Objetos
 Paulo Vinícius Moreira Dutra
-Nome: Diego Jefferson
+Nome: Diego Jefferson 
 
 
 Exercício Prático – Programação Orientada a Objetos e Vetores
